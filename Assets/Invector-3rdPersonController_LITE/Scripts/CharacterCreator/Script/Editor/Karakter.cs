@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
 
-public class CharacterController : MonoBehaviour
+public class Karakter : MonoBehaviour
 {
     private Animator animator;
 
